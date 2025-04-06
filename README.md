@@ -1,0 +1,2 @@
+# Pixel
+Final project Algoritmika
